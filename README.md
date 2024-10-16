@@ -17,3 +17,6 @@ I placed a checkbox to switch between vehicle make and vehicle model on the scat
 
 Conclusion:
 The data seems to show that the bulk of inventory will sell between two to five weeks of being listed and that the dealership puts a higher price point towards Trucks and SUVs, presumably because of demands of the demographics of the area or possibly the geographical region requires it to ease difficulty of travel.
+
+Link to Render:
+https://sprint-4-jmpk.onrender.com
